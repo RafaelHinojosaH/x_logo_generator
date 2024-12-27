@@ -1,1 +1,1 @@
-no requierements
+python version greater than 3.0.0
